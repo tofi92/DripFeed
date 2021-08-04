@@ -43,7 +43,7 @@ namespace DripFeed
         /// Use IDistributedCache to control the throttling (this is recommended in production use-cases)
         /// </summary>
         /// <param name="distributedCache"></param>
-        public void UseDistributedCache(IDistributedCache distributedCache)
+        public void UseDistributedCache()
         {
             this.useMemoryCache = false;
             this.useDistributedCache = true;

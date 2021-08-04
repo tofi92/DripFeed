@@ -3,7 +3,18 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <OutputType>Library</OutputType>
+    <IsPackable>true</IsPackable>
+    <Authors>Tiffi</Authors>
+    <Company />
+    <Product />
+    <Description>A simple, fluent ASP.NET 5.0 library to throttle your APIs!</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/tofi92/DripFeed</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tofi92/DripFeed</RepositoryUrl>
+    <PackageTags>throttle, rate limit, fluent, asp.net core, asp.net 5, simple</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
+    
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="5.0.0" />
