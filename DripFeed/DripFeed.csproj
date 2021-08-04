@@ -14,6 +14,7 @@
     <Title>DripFeed</Title>
     <PackageTags>throttle, rate limit, fluent, asp.net core, asp.net 5, simple</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
   </PropertyGroup>
     
 
