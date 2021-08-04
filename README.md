@@ -1,5 +1,9 @@
 # DripFeed
+
 A simple, fluent ASP.NET 5.0 library to throttle your requests!
+
+
+[![Nuget](https://img.shields.io/nuget/v/DripFeed?style=flat-square)](https://www.nuget.org/packages/DripFeed)
 
 ## Examples
 

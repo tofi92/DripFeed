@@ -11,6 +11,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/tofi92/DripFeed</PackageProjectUrl>
     <RepositoryUrl>https://github.com/tofi92/DripFeed</RepositoryUrl>
+    <Title>DripFeed</Title>
     <PackageTags>throttle, rate limit, fluent, asp.net core, asp.net 5, simple</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
